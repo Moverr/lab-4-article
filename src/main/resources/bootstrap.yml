@@ -6,4 +6,4 @@ eureka:
 words: a,the
 spring:
     application:
-        name: lab-4-subject
+        name: lab-4-article
